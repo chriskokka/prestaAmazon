@@ -1,4 +1,12 @@
-This is your new Play 2.1 application
-=====================================
+prestaZon
 
-This file will be packaged with your application, when using `play dist`.
+This is a REST API Java module meant for updating Prestashops items automatically through
+AWS product advertising API.
+
+The format of the output info about the products can easily be changed
+to be XML / JSON or just plain text, so this module can be used for
+other E-commerce solutions also.
+
+Java module and the API are built using the Play Framework 2.1
+
+Author: Chris Kokka 2013
